@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\All\\Coding\\aspnetcore\\NavigoCarsApi\\Api\\wwwroot\\images\\0791add3-312d-48bd-a479-e4621b9c0e0c_photo1.jpg",
+      "PackagePath": "staticwebassets\\images\\0791add3-312d-48bd-a479-e4621b9c0e0c_photo1.jpg"
+    },
+    {
+      "Id": "D:\\All\\Coding\\aspnetcore\\NavigoCarsApi\\Api\\wwwroot\\images\\2aae58d6-6644-4ab5-ac2a-9d65f844a325_photo2.jpg",
+      "PackagePath": "staticwebassets\\images\\2aae58d6-6644-4ab5-ac2a-9d65f844a325_photo2.jpg"
+    },
+    {
+      "Id": "D:\\All\\Coding\\aspnetcore\\NavigoCarsApi\\Api\\wwwroot\\images\\2b56e0c7-be4e-4522-a42b-617dba3862fa_photo2.jpg",
+      "PackagePath": "staticwebassets\\images\\2b56e0c7-be4e-4522-a42b-617dba3862fa_photo2.jpg"
+    },
+    {
+      "Id": "D:\\All\\Coding\\aspnetcore\\NavigoCarsApi\\Api\\wwwroot\\images\\5118d30d-dd5a-4a14-9e93-40d7140cd35f_photo1.jpg",
+      "PackagePath": "staticwebassets\\images\\5118d30d-dd5a-4a14-9e93-40d7140cd35f_photo1.jpg"
+    },
+    {
+      "Id": "D:\\All\\Coding\\aspnetcore\\NavigoCarsApi\\Api\\wwwroot\\images\\9e82fe3e-6b29-4d24-9cfb-144c30250bd8_photo1.jpg",
+      "PackagePath": "staticwebassets\\images\\9e82fe3e-6b29-4d24-9cfb-144c30250bd8_photo1.jpg"
+    },
+    {
+      "Id": "D:\\All\\Coding\\aspnetcore\\NavigoCarsApi\\Api\\wwwroot\\images\\a9ae8f48-7ab5-40a2-8b0c-a1c461cafbe0_photo1.jpg",
+      "PackagePath": "staticwebassets\\images\\a9ae8f48-7ab5-40a2-8b0c-a1c461cafbe0_photo1.jpg"
+    },
+    {
+      "Id": "D:\\All\\Coding\\aspnetcore\\NavigoCarsApi\\Api\\wwwroot\\images\\d0c13bb4-7804-40f9-959a-fee254300d63_photo1.jpg",
+      "PackagePath": "staticwebassets\\images\\d0c13bb4-7804-40f9-959a-fee254300d63_photo1.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Api.props",
+      "PackagePath": "build\\Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Api.props",
+      "PackagePath": "buildMultiTargeting\\Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Api.props",
+      "PackagePath": "buildTransitive\\Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
